@@ -1,0 +1,78 @@
+package com.google.android.gms.fitness.data;
+
+public class a {
+    public static final String A = "row.high";
+    public static final String B = "pullup";
+    public static final String C = "chinup";
+    public static final String D = "pulldown";
+    public static final String E = "shrug";
+    public static final String F = "back_extension";
+    public static final String G = "good_morning";
+    public static final String H = "curl.bicep";
+    public static final String I = "triceps_extension";
+    public static final String J = "press.jm";
+    public static final String K = "squat";
+    public static final String L = "leg_press";
+    public static final String M = "leg_curl";
+    public static final String N = "leg_extension";
+    public static final String O = "wall_sit";
+    public static final String P = "step_up";
+    public static final String Q = "deadlift";
+    public static final String R = "deadlift.single_leg";
+    public static final String S = "deadlift.straight_leg";
+    public static final String T = "deadlift.rdl";
+    public static final String U = "lunge";
+    public static final String V = "lunge.rear";
+    public static final String W = "lunge.side";
+    public static final String X = "situp";
+    public static final String Y = "crunch";
+    public static final String Z = "leg_raise";
+    public static final String a = "pushup";
+    public static final String aa = "hip_raise";
+    public static final String ab = "vups";
+    public static final String ac = "situp.twisting";
+    public static final String ad = "crunch.twisting";
+    public static final String ae = "plank";
+    public static final String af = "plank.side";
+    public static final String ag = "bridge.hip";
+    public static final String ah = "bridge.hip.single_leg";
+    public static final String ai = "hip_extension";
+    public static final String aj = "russian_twist";
+    public static final String ak = "swing";
+    public static final String al = "calf_raise";
+    public static final String am = "calf_raise.standing";
+    public static final String an = "calf_raise.seated";
+    public static final String ao = "calf_press";
+    public static final String ap = "thruster";
+    public static final String aq = "jumping_jack";
+    public static final String ar = "burpee";
+    public static final String as = "run.high_knee";
+    public static final String b = "pushup.close_grip";
+    public static final String c = "pushup.pike";
+    public static final String d = "press.bench";
+    public static final String e = "press.bench.incline";
+    public static final String f = "press.bench.decline";
+    public static final String g = "press.bench.close_grip";
+    public static final String h = "fly";
+    public static final String i = "pullover";
+    public static final String j = "dip";
+    public static final String k = "dip.triceps";
+    public static final String l = "dip.chest";
+    public static final String m = "press.shoulder";
+    public static final String n = "press.pike";
+    public static final String o = "press.shoulder.arnold";
+    public static final String p = "press.shoulder.military";
+    public static final String q = "raise.lateral";
+    public static final String r = "raise.front";
+    public static final String s = "raise.lateral.rear";
+    public static final String t = "clean";
+    public static final String u = "clean.jerk";
+    public static final String v = "clean.hang";
+    public static final String w = "clean.power";
+    public static final String x = "clean.hang_power";
+    public static final String y = "row";
+    public static final String z = "row.upright";
+
+    private a() {
+    }
+}

@@ -1,0 +1,11 @@
+package com.google.android.gms.internal;
+
+import com.google.android.gms.common.internal.d;
+
+public class v extends aqg {
+    protected ea<?> a(apr com_google_android_gms_internal_apr, ea<?>... eaVarArr) {
+        d.b(eaVarArr != null);
+        d.b(eaVarArr.length <= 1);
+        return new ee(eaVarArr.length < 1 ? ee.e : eaVarArr[0]);
+    }
+}

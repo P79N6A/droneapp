@@ -1,0 +1,42 @@
+package it.a.a;
+
+public interface e {
+    public static final int A = 220;
+    public static final int B = 221;
+    public static final int C = 225;
+    public static final int D = 226;
+    public static final int E = 227;
+    public static final int F = 230;
+    public static final int G = 250;
+    public static final int H = 257;
+    public static final int I = 110;
+    public static final int J = 120;
+    public static final int K = 125;
+    public static final int L = 150;
+    public static final int a = 500;
+    public static final int b = 501;
+    public static final int c = 502;
+    public static final int d = 503;
+    public static final int e = 504;
+    public static final int f = 530;
+    public static final int g = 550;
+    public static final int h = 551;
+    public static final int i = 552;
+    public static final int j = 553;
+    public static final int k = 421;
+    public static final int l = 425;
+    public static final int m = 426;
+    public static final int n = 450;
+    public static final int o = 451;
+    public static final int p = 452;
+    public static final int q = 331;
+    public static final int r = 332;
+    public static final int s = 350;
+    public static final int t = 200;
+    public static final int u = 202;
+    public static final int v = 211;
+    public static final int w = 212;
+    public static final int x = 213;
+    public static final int y = 214;
+    public static final int z = 215;
+}
