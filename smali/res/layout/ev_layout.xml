@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/bg_ev" android:layout_width="wrap_content" android:layout_height="40.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="@color/white" android:id="@id/ev_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="@string/ev_value" />
+    <com.fimi.soul.view.EVview android:id="@id/ev_v" android:layout_width="318.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+    <com.fimi.soul.view.LightView android:id="@id/light_v" android:layout_width="318.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+</LinearLayout>
